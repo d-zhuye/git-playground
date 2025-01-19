@@ -7,9 +7,6 @@ for (let i = 0; i < 5; i++) {
 
 // This is an example text;
 
-//Added during testing branch
-
-function makeAMergeConflict() {
-  console.log("This is a merge conflict.");
-  console.log("Delete this in refactor branch.");
+function rebase() {
+  console.log("Hello I am rebased");
 }
