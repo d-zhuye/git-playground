@@ -7,10 +7,20 @@ for (let i = 0; i < 5; i++) {
 
 // This is an example text;
 
-function rebase() {
+function merge() {
   console.log("Hello I am function to merge");
 }
 
 function working() {
   console.log("Currently working!");
+}
+
+class Merge {
+  constructor() {
+  }
+}
+
+function awesomeFeature() {
+  console.log("This is really awesome!");
+  // It really is
 }
