@@ -7,6 +7,12 @@ for (let i = 0; i < 5; i++) {
 
 // This is an example text;
 
-function rebase() {
+function merge() {
   console.log("Hello I am function to merge");
+}
+
+class Merge {
+  constructor() {
+    
+  }
 }
