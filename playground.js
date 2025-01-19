@@ -16,3 +16,8 @@ class Merge {
     
   }
 }
+
+function awesomeFeature() {
+  console.log("This is really awesome!");
+  // It really is
+}
