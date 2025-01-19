@@ -10,3 +10,7 @@ for (let i = 0; i < 5; i++) {
 function rebase() {
   console.log("Hello I am function to merge");
 }
+
+function working() {
+  console.log("Currently working!");
+}
